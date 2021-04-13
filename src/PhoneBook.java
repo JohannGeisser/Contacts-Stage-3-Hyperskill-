@@ -104,7 +104,7 @@ public class PhoneBook {
                         System.out.println("Enter the number:");
                         String number = scanner.next();
                         contacts.get(j - 1).setNumber(number);
-                        System.out.println("Record updated!");
+                        System.out.println("Record Updated!");
                         break;
                     }
 
